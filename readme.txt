@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Yes.
 Git tracks changes of files.
 Mystupid boss still prefers SVN.
+Remote origin master.
